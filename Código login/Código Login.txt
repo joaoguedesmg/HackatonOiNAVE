@@ -1,0 +1,9 @@
+main()
+
+int cpf, senha;
+
+Printf("CPF");scanf(%d,&cpf);
+
+Printf("Senha");scanf(%d,&senha);
+
+}
