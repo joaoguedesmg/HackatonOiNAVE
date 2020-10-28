@@ -1,0 +1,31 @@
+main()
+{
+
+int pontos=0 desconto=0;
+
+while(pontos<500)
+
+if(amigo usou seu codigo)
+
+{
+pontos+=100; 
+desconto+=5;
+}
+
+
+if(voce usou desconto na oiplace)
+
+{
+
+if(usou desconto de 5%)
+pontos-= 100; 
+if(usou desconto de 10%)
+pontos-= 200; 
+if(usou desconto de 15%)
+pontos-= 300;
+if(usou desconto de 20%) 
+pontos-= 400; 
+if(usou desconto de 25%)
+pontos-= 500;
+
+}
